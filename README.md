@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/jyojg58b38wujxcx?svg=true)](https://ci.appveyor.com/project/VbyV/webservice-487tm)
+[![Build status](https://ci.appveyor.com/api/projects/status/d0mtinmwa2s80crf?svg=true)](https://ci.appveyor.com/project/VbyV/patterns1)
