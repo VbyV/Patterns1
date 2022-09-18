@@ -23,7 +23,7 @@ class DeliveryTest {
     void shouldSuccessfulPlanAndReplanMeeting() {
         var validUser = DataGenerator.Registration.generateUser("ru");
         String firstMeetingDate = DataGenerator.generateDate(4);
-        //var daysToAddForSecondMeeting = 7;
+        
         String secondMeetingDate = DataGenerator.generateDate(7);
 
         $("[data-test-id=city] input").setValue(validUser.getCity());
